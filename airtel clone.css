@@ -968,6 +968,8 @@ height: auto;
 	   @media (max-width:480px){ 
 	   	.fullbody{
 			overflow:hidden;
+			padding:0px;
+			margin:0px;
 		   }
 		   
 	   	nav{ 
