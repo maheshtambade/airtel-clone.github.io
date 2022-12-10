@@ -1,2 +1,2 @@
 # airtel-clone.github.io
-airtel clone using thml css and javascript
+airtel clone using html css and javascript
